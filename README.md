@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Yadav</h1>
 
-<h3 align="center">Data Analyst & Cloud Data Engineer | Power BI & GCP Expert</h3>
+<h3 align="center">Data Analyst & Cloud Data Engineer | Power BI, GCP & Fabric Expert</h3>
 
 Welcome to my little corner of GitHub!  
 
@@ -14,8 +14,8 @@ I’m passionate about growing in my career, picking up new tech skills, and mak
 - 🔍 Passionate about **Data Analytics, Visualization & Data Engineering**
 - ☁️ Currently building robust **Cloud Data Pipelines** (ETL/ELT, Real-Time Streaming & Batch Processing)
 - 🎨 Experienced in **Figma, PowerApps, Advanced Excel, PowerPoint, Power BI, DAX, Power Query, SQL, Python**
-- ⚙️ Skilled in modern Data Stack: **Google Cloud Platform (GCP), Terraform, Apache Spark (Dataproc), Apache Beam (Dataflow), Airflow (Composer), dbt, BigQuery**
-- ✅ Certified: **PL-300 (Microsoft Power BI Data Analyst)**
+- ⚙️ Skilled in modern Data Stack: **Google Cloud Platform (GCP), Terraform, Apache Spark, Airflow, dbt, BigQuery, Microsoft Fabric**
+- ✅ Certified: **PL-300 (Power BI Data Analyst) | DP-600 (Fabric Analytics Engineer) | DP-700 (Fabric Data Engineer)**
 
 Whether you're here to find useful dashboards, explore enterprise data architectures, or just see how someone else is figuring it all out—you’re in the right place! 🫶
 
